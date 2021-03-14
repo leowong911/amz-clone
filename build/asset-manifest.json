@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.eef15991.chunk.css",
+    "main.js": "/static/js/main.de4503ce.chunk.js",
+    "main.js.map": "/static/js/main.de4503ce.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.ac83bc4a.js",
+    "runtime-main.js.map": "/static/js/runtime-main.ac83bc4a.js.map",
+    "static/css/2.0a0ce284.chunk.css": "/static/css/2.0a0ce284.chunk.css",
+    "static/js/2.37df34cc.chunk.js": "/static/js/2.37df34cc.chunk.js",
+    "static/js/2.37df34cc.chunk.js.map": "/static/js/2.37df34cc.chunk.js.map",
+    "static/js/3.7a855c54.chunk.js": "/static/js/3.7a855c54.chunk.js",
+    "static/js/3.7a855c54.chunk.js.map": "/static/js/3.7a855c54.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.0a0ce284.chunk.css.map": "/static/css/2.0a0ce284.chunk.css.map",
+    "static/css/main.eef15991.chunk.css.map": "/static/css/main.eef15991.chunk.css.map",
+    "static/js/2.37df34cc.chunk.js.LICENSE.txt": "/static/js/2.37df34cc.chunk.js.LICENSE.txt",
+    "static/media/notifications.css": "/static/media/notification.c5d9251e.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ac83bc4a.js",
+    "static/css/2.0a0ce284.chunk.css",
+    "static/js/2.37df34cc.chunk.js",
+    "static/css/main.eef15991.chunk.css",
+    "static/js/main.de4503ce.chunk.js"
+  ]
+}
